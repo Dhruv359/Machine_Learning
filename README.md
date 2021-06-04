@@ -1,4 +1,3 @@
-## Machine_Learning
-Machine_Learning : LinReg, LogReg, Decision Trees, Class Conditional, Naive Bayes, Bayesian Regression, PCA, Clustering, K-Means, DL
-
-## Categorical Data Analysis 
+Numpy Basis notebook 
+Pandas Basics notebook 
+Linear Regression (1D, 2D Notebook)
